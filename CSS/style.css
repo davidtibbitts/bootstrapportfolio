@@ -36,9 +36,14 @@ body{
 .btn-primary{
     background-color:#DA6450;
     border:1px solid #DA6450;
+    width:100%;
 }
 
 .btn-primary:hover{
     background-color:#E38B7C;
     border:1px solid #E38B7C;
+}
+
+.card-image-top{
+    width:100%;
 }
